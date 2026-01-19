@@ -1,3 +1,6 @@
+// Main entry point for ccp
+//Demonstrates core use cases of the system
+
 package com.hotel.app;
 
 import com.hotel.domain.*;
